@@ -6,3 +6,6 @@ Fifth line from Anil Kumar
 Sixth line from other user.
 Seventh line from Anil Kumar
 *** Keywords ***
+
+Feature1 Test
+    Clean All User Entries
